@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Technical test for internship program 2024
 
 Please follow below instruction to complete the tests
@@ -10,3 +11,6 @@ Please follow below instruction to complete the tests
 7. Draw a tracking line for the detected cat.
 8. Push the code to your Github account with public access and provide the link in the answer box.
 
+=======
+# Yossawee-Clicknext-Internship-2024
+>>>>>>> 5f88915684ba7f05bd786108bfe7d04861d82c92

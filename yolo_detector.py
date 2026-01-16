@@ -63,7 +63,7 @@ def detect_object(frame):
     for result in results:
         frame = draw_boxes(frame, result.boxes)
 
-     # 🔴 ข้อความมุมขวาบน (ชื่อผู้ทำ)
+     #  ข้อความมุมขวาบน (ชื่อผู้ทำ)
     text = "Yossawee-Clicknext-Internship-2024"
     font = cv2.FONT_HERSHEY_SIMPLEX
     font_scale = 0.9
