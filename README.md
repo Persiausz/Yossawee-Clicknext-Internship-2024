@@ -1,3 +1,6 @@
+<img width="1276" height="800" alt="image" src="https://github.com/user-attachments/assets/c9ad8c7b-1e54-4c77-afa6-0cda68a6ae48" />
+
+
 # How to Run the Project
 ### STEP 1
 python3 -m venv venv
